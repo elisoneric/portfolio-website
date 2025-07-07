@@ -1,6 +1,3 @@
-Sure thing, Elison! Here's the final version of your `README.md` content that you can paste directly into your GitHub repo. It includes GitHub-compatible Markdown with syntax highlighting for `bash` commands and neatly separated text. This version will display cleanly on GitHub and show the code blocks exactly as you’d expect.
-
-```md
 # Portfolio Website – Laravel
 
 A Laravel-based portfolio website that includes user authentication and Tailwind CSS integration.
@@ -90,7 +87,4 @@ php artisan serve
 
 ## 🙋‍♂️ Author
 
-Your Name – [@yourhandle](https://github.com/yourhandle)
-```
-
-If you'd like me to auto-insert your name and handle or export this as a downloadable `.md` file, just give me a shout!
+Your Name – [@elisoneric](https://github.com/elisoneric)
