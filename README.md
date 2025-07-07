@@ -1,6 +1,6 @@
-# Portfolio Website – Laravel
+# 3LI Portfolio Website – Laravel
 
-A Laravel-based portfolio website that includes user authentication and Tailwind CSS integration.
+A Laravel-based portfolio website for 3LI by 3LI
 
 ---
 
