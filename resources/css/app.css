@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+    .shine-progress {
+        @apply h-4 rounded-full overflow-hidden relative;
+    }
+    .shine-progress::after {
+        content: '';
+        @apply absolute inset-0;
+        background: linear-gradient(
+            90deg,
+            transparent,
+            rgba(255,255,255,0.3),
+            transparent
+        );
+        animation: shine 2s infinite;
+    }
+    @keyframes shine {
+        0% { transform: translateX(-100%); }
+        100% { transform: translateX(100%); }
+    }
+
+    @import 'swiper/swiper-bundle.min.css';
+
+.swiper-pagination-bullet {
+    @apply bg-white/50;
+}
+.swiper-pagination-bullet-active {
+    @apply bg-cyan-400;
+}
+}
