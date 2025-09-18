@@ -16,6 +16,7 @@ cd portfolio-website
 ### 2. Install Dependencies
 
 ```bash
+composer update
 composer install
 npm install
 ```
