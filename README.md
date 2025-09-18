@@ -9,7 +9,7 @@ A Laravel-based portfolio website for 3LI by 3LI
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/portfolio-website.git
+git clone https://github.com/elisoneric/portfolio-website.git
 cd portfolio-website
 ```
 
@@ -87,4 +87,4 @@ php artisan serve
 
 ## 🙋‍♂️ Author
 
-Your Name – [@elisoneric](https://github.com/elisoneric)
+3LI – [@elisoneric](https://github.com/elisoneric)
